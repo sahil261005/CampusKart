@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+.env
+.env.*
+instance/
+
+# Django
+*.log
+staticfiles/
+media/
+
+# Node / React
+node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Build
+build/
+dist/
+.DS_Store
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Others
+coverage/
+*.sqlite3
+.idea/
